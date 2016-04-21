@@ -1,0 +1,17 @@
+.cf{
+	clear: both;
+	margin: 30px 0;
+}
+.icon{
+	fill: #10A274;
+}
+.c-icon{
+	fill: #EE6150;	
+}
+svg {
+	display: inline-block;
+	height: auto;
+	overflow: hidden;
+	height: 5em;
+	width: 5em;
+}
